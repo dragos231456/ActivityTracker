@@ -7,3 +7,4 @@ Unfortunately, the production team is out of front-end developers so here are so
 
 ![puii](https://github.com/dragos231456/ActivityTracker/blob/master/screenshots/1.png?raw=true)
 
+![puii](https://github.com/dragos231456/ActivityTracker/blob/master/screenshots/2.png?raw=true)
