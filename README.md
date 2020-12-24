@@ -5,3 +5,5 @@ the most tennis against in 2020" or "how many kilometers have you walked last mo
 
 Unfortunately, the production team is out of front-end developers so here are some postman screenshots:
 
+!(https://github.com/dragos231456/ActivityTracker/blob/master/screenshots/1.png?raw=true)
+
