@@ -9,7 +9,7 @@ import java.util.List;
 
 @Repository("fileRepo")
 public final class FileRepository implements IRepository {
-    private final String filepath = "repo.txt";
+    private final String filepath = "testrepo.txt";
     private List<Activity> activities;
 
     public FileRepository() throws IOException, ClassNotFoundException {
